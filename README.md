@@ -1,0 +1,2 @@
+# jarvis-system-
+jarvis-system/ │ ├── prompts/ │   └── jarvis-master.txt │ ├── agents/ │   └── agentes-definicao.md │ ├── templates/ │   ├── PRD.md │   ├── ARQUITETURA.md │   ├── API.md │   ├── BANCO_DADOS.md │   └── CHECKLIST_QA.md │ ├── projetos/ │   └── (seus sistemas aqui) │ ├── automacoes/ │   └── (futuro: n8n, scripts, etc) │ └── README.md
