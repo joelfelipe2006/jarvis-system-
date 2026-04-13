@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre o Projeto
 
-O **JARVIS System** é um framework avançado que utiliza Inteligência Artificial para estruturar, planejar e desenvolver sistemas digitais de forma profissional, escalável e orientada a resultados.
+O **JARVIS System** é um framework avançado que utiliza Inteligência Artificial para estruturar, planejar e orientar o desenvolvimento de sistemas digitais de forma profissional, escalável e orientada a resultados.
 
 Diferente de assistentes tradicionais, o JARVIS atua como uma **equipe completa de tecnologia**, simulando especialistas em:
 
@@ -43,7 +43,7 @@ O sistema é capaz de produzir:
 - Modelagem de Banco de Dados  
 - Documentação de APIs  
 - Fluxos do sistema  
-- Manuais  
+- Manual do usuário  
 
 ---
 
@@ -60,32 +60,36 @@ Ideal para:
 
 ## ⚙️ Como usar
 
-1. Acesse:
+1. Acesse o diretório:
 
 2. Copie o conteúdo  
 
-3. Cole no Claude ou outra IA  
+3. Cole no Claude (ou outra IA compatível)  
 
-4. Descreva sua ideia  
+4. Descreva sua ideia de sistema  
 
 ---
 
 ## 🧠 Diferencial
 
-O JARVIS transforma um desenvolvedor individual em uma **estrutura de engenharia completa**, elevando o padrão de entrega para nível profissional.
+O JARVIS transforma um desenvolvedor individual em uma **estrutura completa de engenharia de software**, elevando o padrão de entrega para nível profissional.
 
 ---
 
 ## 🚀 Objetivo
 
-Reduzir drasticamente o tempo entre **ideia → planejamento → execução**, permitindo a criação de sistemas escaláveis e monetizáveis.
+Reduzir drasticamente o tempo entre:
+
+**ideia → planejamento → execução**
+
+Permitindo a criação de sistemas escaláveis e monetizáveis.
 
 ---
 
 ## 📌 Status
 
-🟢 Em evolução contínua  
-🔧 Estrutura base concluída  
-🚀 Pronto para desenvolvimento de projetos reais  
+- 🟢 Em evolução contínua  
+- 🔧 Estrutura base concluída  
+- 🚀 Pronto para desenvolvimento de projetos reais  
 
 ---
